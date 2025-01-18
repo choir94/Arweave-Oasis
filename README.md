@@ -64,6 +64,34 @@ Click on the Pull Request tab.
 Click on New Pull Request.
 Submit your pull request for review
 
+7. Here are the simple steps to submit task1: Create a task1-10 folder under submissions/YourName.
+
+```bash
+mkdir mkdir task{1..10}
+```
+   
+Answer all questions, take a screenshot of the results, and upload them to the submissions/YourName/task1 folder. Submit a Pull Request to this repository. Once your homework is merged, task1 will be considered complete. continue until task10.
+
+8. Link quiz
+
+1. [Task 1 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501081)  
+2. [Task 2 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501082)  
+3. [Task 3 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501083)  
+4. [Task 4 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501084)  
+5. [Task 5 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501085)  
+6. [Task 6 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501086)  
+7. [Task 7 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501087)  
+8. [Task 8 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501088)  
+9. [Task 9 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501089)  
+10. [Task 10 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501090)
+
+After all, push again
+```bash
+git add .  
+git commit -m "Add personal file"  
+git push origin main  
+```
+
 You’re all set! 🎉 Once your pull request is reviewed and approved, you’ll be officially part of the Arweave Oasis Airdrop program. Good luck!
 
 ## Join Telegram Airdrop Node
