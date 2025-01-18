@@ -74,16 +74,16 @@ Answer all questions, take a screenshot of the results, and upload them to the s
 
 8. Link quiz
 
-1. [Task 1 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501081)  
-2. [Task 2 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501082)  
-3. [Task 3 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501083)  
-4. [Task 4 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501084)  
-5. [Task 5 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501085)  
-6. [Task 6 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501086)  
-7. [Task 7 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501087)  
-8. [Task 8 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501088)  
-9. [Task 9 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501089)  
-10. [Task 10 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501090)
+- [Task 1 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501081)  
+- [Task 2 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501082)  
+- [Task 3 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501083)  
+- [Task 4 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501084)  
+- [Task 5 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501085)  
+- [Task 6 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501086)  
+- [Task 7 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501087)  
+- [Task 8 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501088)  
+- [Task 9 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501089)  
+- [Task 10 - OpenBuild Quiz](https://openbuild.xyz/quiz/202501090)
 
 After all, push again
 ```bash
